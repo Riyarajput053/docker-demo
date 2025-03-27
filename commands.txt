@@ -1,0 +1,2 @@
+--- to build a container ---
+docker build -t mlops-docker-demo .
